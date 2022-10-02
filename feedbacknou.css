@@ -1,0 +1,27 @@
+body { 
+  overflow: hidden;
+  height:100vh;
+}
+.message{
+color:rgb(218,87,0);
+text-align: center;
+margin-top: 250px;
+font-size: 25px;
+}
+
+.button{
+    
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    margin-top:45px;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(218, 87, 0);
+}
+.info{
+    text-align: center;
+    margin-top: 120px;
+    color: rgb(218, 87, 0);
+    font-size: 20px;
+}
